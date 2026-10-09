@@ -1,6 +1,6 @@
 # Bhargavi Security Portfolio
 
-A frontend-only personal portfolio built with React, TypeScript, and Vite. It presents selected projects, cybersecurity interests, education, experience, certifications, and contact information. An interactive portfolio terminal displays site information without running system commands or requiring a backend.
+A personal portfolio built with React, TypeScript, and Vite. It presents selected projects, cybersecurity interests, education, experience, certifications, and contact information. An interactive portfolio terminal displays site information without running system commands or requiring a backend.
 
 ## Requirements
 
